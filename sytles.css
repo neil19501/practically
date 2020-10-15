@@ -1,0 +1,96 @@
+#header{
+    padding: 0.5%;
+}
+
+
+
+.logo{
+	height: 70px;
+	width: auto;
+}
+
+
+.myButton {
+	box-shadow: 0px -1px 0px 0px #fff6af;
+	background-color:#f2da3d;
+	border-radius:15px;
+	border:1px solid #e7f069;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:18px 37px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #ffee66;
+    
+}
+.myButton:hover {
+	background-color:#ffab23;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#body{
+    padding: 3%;
+}
+
+.doc{
+	color: rgb(61, 58, 58);
+    padding: 1%;
+}
+
+
+
+
+.view{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+
+#footer{
+    padding: 2%;
+}
+
+
+
+#footer a{
+    display: inline;
+
+    float: right;
+
+    padding-right: 5%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
